@@ -15,8 +15,10 @@ using System.Windows.Shapes;
 
 namespace EasterSunday
 {
+    /// <author>Thomas LaSalle</author>
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// A fun program which will compute the date of Easter
+    /// Sunday based on a given year.
     /// </summary>
     public partial class MainWindow : Window
     {
